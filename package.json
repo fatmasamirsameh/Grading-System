@@ -1,0 +1,17 @@
+{
+  "name": "task1_student",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "validator": "^13.5.2",
+    "yargs": "^16.2.0"
+  }
+}
